@@ -8,6 +8,13 @@ IEx to get a good idea of how it works.
 
 ## Usage
 
+Download the code and change into the correct directory.
+
+```
+git clone https://github.com/StrongChris/GenServer-Tutorial.git
+cd GenServer-Tutorial
+```
+
 Start an interactive session with the following:
 
 ```bash
